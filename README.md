@@ -25,7 +25,7 @@ command = "powershell.exe ... -file "".\login.ps1"" "
 command = "powershell.exe ... -file ""<ABSOLUTE_PATH_TO_THE_SCRIPT>\login.ps1"" "
 ```
 
-6. Open task scheduler, click on ``import task`` on the right side panel, and select ``WiFi Login Task.xml`` to import the task.
+6. Open task scheduler, click on ``import task`` on the right side panel, and select ``task.xml`` to import the task.
 
 7. On the ``User`` section, select your own user
 
